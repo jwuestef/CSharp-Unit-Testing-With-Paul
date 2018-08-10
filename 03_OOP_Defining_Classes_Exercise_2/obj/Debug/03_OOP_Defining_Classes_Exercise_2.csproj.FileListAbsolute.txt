@@ -1,0 +1,6 @@
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\03_OOP_Defining_Classes_Exercise_2\obj\Debug\03_OOP_Defining_Classes_Exercise_2.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\03_OOP_Defining_Classes_Exercise_2\bin\Debug\03_OOP_Defining_Classes_Exercise_2.exe.config
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\03_OOP_Defining_Classes_Exercise_2\bin\Debug\03_OOP_Defining_Classes_Exercise_2.exe
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\03_OOP_Defining_Classes_Exercise_2\bin\Debug\03_OOP_Defining_Classes_Exercise_2.pdb
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\03_OOP_Defining_Classes_Exercise_2\obj\Debug\03_OOP_Defining_Classes_Exercise_2.exe
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\03_OOP_Defining_Classes_Exercise_2\obj\Debug\03_OOP_Defining_Classes_Exercise_2.pdb

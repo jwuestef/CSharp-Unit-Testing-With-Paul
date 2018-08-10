@@ -1,0 +1,6 @@
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Demo\bin\Debug\02_Reference_Types_Demo.dll
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Demo\bin\Debug\02_Reference_Types_Demo.pdb
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Demo\obj\Debug\02_Reference_Types_Demo.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Demo\obj\Debug\02_Reference_Types_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Demo\obj\Debug\02_Reference_Types_Demo.dll
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Demo\obj\Debug\02_Reference_Types_Demo.pdb

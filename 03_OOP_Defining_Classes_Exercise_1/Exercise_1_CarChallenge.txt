@@ -1,0 +1,16 @@
+﻿Exercise 1: Car Class
+
+Komodo wants an app that will allow car objects to be created 
+for their Car Insurance program.
+
+Your tasks are as follows:
+
+1.) Make a class that will allow us to easily create new Cars. 
+For now we want some basics: car make, car model, and car year.
+
+2.) In the Car class create a constructor that will allow us to easily 
+create cars with all properties set. 
+
+https://github.com/jpauloconnor/CSharpLibrary/tree/master/0.09_Constructors
+
+3.) You will need to write Unit Tests for your properties.

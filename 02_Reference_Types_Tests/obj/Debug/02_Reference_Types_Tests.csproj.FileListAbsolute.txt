@@ -1,0 +1,16 @@
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Tests\bin\Debug\02_Reference_Types_Tests.dll
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Tests\bin\Debug\02_Reference_Types_Tests.pdb
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Tests\bin\Debug\02_Reference_Types_Demo.dll
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Tests\bin\Debug\02_Reference_Types_Demo.pdb
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Tests\obj\Debug\02_Reference_Types_Tests.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Tests\obj\Debug\02_Reference_Types_Tests.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Tests\obj\Debug\02_Reference_Types_Tests.csproj.CopyComplete
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Tests\obj\Debug\02_Reference_Types_Tests.dll
+C:\Users\Jeremy\Desktop\EFA\DotNetProjects\UnitTestingWithPaul\DotNet-151-OOPFundamentals-master\02_Reference_Types_Tests\obj\Debug\02_Reference_Types_Tests.pdb
